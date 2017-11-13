@@ -1,3 +1,4 @@
 echo "Hello World";
 echo "This is statement 2 of the script";
+echo "This is Demo of staging without committing to Master";
 
